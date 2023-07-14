@@ -1,4 +1,4 @@
-# codecademy-projects
+# Codecademy Projects
 
 Use [nbviewer](https://nbviewer.org/) to view any Jupyter notebook.
 
